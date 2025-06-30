@@ -15,7 +15,7 @@ export default async function HomePage() {
 
   return (
     <div>
-      <h2 className="text-center font-bold mt-10">Home page !!!</h2>
+      <h2 className="text-blue-500 text-center font-bold mt-10">Home page !!!</h2>
     </div>
   )
 }
